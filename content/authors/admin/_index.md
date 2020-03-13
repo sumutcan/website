@@ -22,9 +22,13 @@ bio: My research interests include Semantic Web and Services, schema.org, Linked
 
 interests:
 - Artificial Intelligence
-- Semantic Web
+- Dialog Systems
 - Knowledge Graphs
+- Lightweight Semantic Web Services
+- Linked Data
 - schema.org
+- Semantic Web
+- SHACL
 
 education:
   courses:
@@ -33,13 +37,13 @@ education:
     year: 2015-
   - course: MSc in Computer Engineering
     institution: Ege University, Izmir, Turkey
-    year: 2013
+    year: 2013-2015
   - course: MSc in Computer Science
     institution: Technische Hochschule Mittelhessen, Giessen, Germany
-    year: 2013
+    year: 2013-2015
   - course: BSc in Computer Engineering
     institution: Ege University, Izmir, Turkey
-    year: 2009
+    year: 2009-2013
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -59,12 +63,12 @@ social:
   link: https://github.com/semantifyit
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+ - icon: cv
+   icon_pack: ai
+   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "s.umutcan@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -73,4 +77,4 @@ email: ""
 # - Visitors
 ---
 
-Umutcan Simsek is a researcher in STI Innsbruck. 
+Umutcan Simsek is a Semantic Web and Knowledge Graph researcher in STI Innsbruck. 
