@@ -18,14 +18,13 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Semantic Web and Services, schema.org, Linked Open Data, Knowledge Graphs, Dialog Systems.
+bio: I'm a researcher at STI Innsbruck research group at the Department of Computer Science of University of Innsbruck. My research interests include Semantic Web and Services, schema.org, Linked Open Data, Knowledge Graphs, Dialog Systems.
 
 interests:
 - Artificial Intelligence
 - Dialog Systems
 - Knowledge Graphs
 - Lightweight Semantic Web Services
-- Linked Data
 - schema.org
 - Semantic Web
 - SHACL
@@ -63,9 +62,9 @@ social:
   link: https://github.com/semantifyit
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
- - icon: cv
-   icon_pack: ai
-   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "s.umutcan@gmail.com"
