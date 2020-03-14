@@ -76,4 +76,4 @@ email: "s.umutcan@gmail.com"
 # - Visitors
 ---
 
-Umutcan Simsek is a Semantic Web and Knowledge Graph researcher in STI Innsbruck. 
+Umutcan Simsek is a Semantic Web and Knowledge Graph researcher in STI Innsbruck. This page contains some highlights of his professional life. For more details, please see the CV. For a full list of publications, please see the Google Scholar Profile. This page is in still under construction.

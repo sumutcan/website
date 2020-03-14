@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Umutcan Simsek</title>
+    <link>http://localhost:1313/project/</link>
+      <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Sat, 14 Mar 2020 02:11:40 +0100</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=true) shape:circle]</url>
+      <title>Projects</title>
+      <link>http://localhost:1313/project/</link>
+    </image>
+    
+    <item>
+      <title>DTE</title>
+      <link>http://localhost:1313/project/dte/</link>
+      <pubDate>Sat, 14 Mar 2020 02:11:40 +0100</pubDate>
+      <guid>http://localhost:1313/project/dte/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ENTROPY</title>
+      <link>http://localhost:1313/project/entropy/</link>
+      <pubDate>Sat, 14 Mar 2020 02:11:25 +0100</pubDate>
+      <guid>http://localhost:1313/project/entropy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MindLab</title>
+      <link>http://localhost:1313/project/mindlab/</link>
+      <pubDate>Sat, 01 Sep 2018 02:11:20 +0100</pubDate>
+      <guid>http://localhost:1313/project/mindlab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantify.it</title>
+      <link>http://localhost:1313/project/semantifyit/</link>
+      <pubDate>Wed, 01 Mar 2017 02:18:01 +0100</pubDate>
+      <guid>http://localhost:1313/project/semantifyit/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

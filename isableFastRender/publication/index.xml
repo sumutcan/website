@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Umutcan Simsek</title>
+    <link>http://localhost:1313/publication/</link>
+      <atom:link href="http://localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright>
+    <image>
+      <url>img/map[gravatar:%!s(bool=true) shape:circle]</url>
+      <title>Publications</title>
+      <link>http://localhost:1313/publication/</link>
+    </image>
+    
+    <item>
+      <title>Knowledge Graphs: Methodology, Tools and Selected Use Cases</title>
+      <link>http://localhost:1313/publication/fenseletal2020/</link>
+      <pubDate>Sat, 14 Mar 2020 01:57:51 +0100</pubDate>
+      <guid>http://localhost:1313/publication/fenseletal2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
