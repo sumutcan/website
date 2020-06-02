@@ -3,7 +3,7 @@
 
 title: "Towards a Knowledge Graph Lifecycle: A pipeline for the population of a commercial Knowledge Graph"
 authors: ["Umutcan Simsek", "Jürgen Umbrich", "Dieter Fensel"]
-date: 2020-06-02T10:39:38Z
+date: 2020-01-20T10:39:38Z
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
