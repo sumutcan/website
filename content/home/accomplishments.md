@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Internet Privatstiftung Austria"
-  organization_url = "https://www.coursera.org"
+  organization_url = "https://www.netidee.at"
   title = "netidee Grant Call 13"
   url = ""
   # certificate_url = "https://www.netidee.at"
