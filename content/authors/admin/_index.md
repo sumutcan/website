@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Umutcan Şimşek
+title: Umutcan Simsek
 
 # Username (this should match the folder name)
 authors:
