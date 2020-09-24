@@ -29,12 +29,23 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
+  title = "Consultant"
+  company = "Freelance"
+  company_url = ""
+  location = "Innsbruck, Austria"
+  date_start = "2018-12-01"
+  date_end = ""
+  description = """
+  Freelance consultancy for appyling semantic technologies in different verticals. See [Projects](#projects) for some references.  
+  """
+
+[[experience]]
   title = "Lead Software Developer"
   company = "Aura Informatics"
   company_url = "http://aurabilisim.com.tr"
   location = "Izmir, Turkey"
   date_start = "2013-06-16"
   date_end = "2015-10-31"
-  description = """Took part various software projects. After September 2014, remote software maintenanceand coordination of other projects from Germany"""
+  description = """Took part various software projects. After September 2014, remote software maintenance and coordination of other projects from Germany"""
 
 +++
