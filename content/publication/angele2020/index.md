@@ -2,12 +2,12 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Semantic Web Empowered E-Tourism"
-authors: ["Kevin Angele", "Dieter Fensel", "Elwin Huaman", "Elias Kärle", "Oleksandra Panasiuk", "Umutcan Simsek", "Ioan Toma", "Alexander Wahler"]
-date: 2020-04-25T11:12:41Z
-doi: ""
+authors: ["Kevin, Angele", "Dieter Fensel", "Elwin Huaman", "Elias Kärle", "Oleksandra Panasiuk", "Umutcan Şimşek", "Ioan Toma", "Alex Wahler"]
+date: 2020-10-16T17:15:04Z
+doi: "https://doi.org/10.1007/978-3-030-05324-6_22-1"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-06-02T11:12:41Z
+publishDate: 2020-04-25T17:15:04Z
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -36,13 +36,13 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://link.springer.com/content/pdf/10.1007%2F978-3-030-05324-6_22-1.pdf
 url_code:
 url_dataset:
 url_poster:
 url_project:
 url_slides:
-url_source: https://link.springer.com/referenceworkentry/10.1007/978-3-030-05324-6_22-1
+url_source:
 url_video:
 
 # Featured image
@@ -67,3 +67,12 @@ projects: ["MindLab"]
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+
+
+<!-- #@incollection{Angele2020,
+author = {Angele, Kevin and Fensel, Dieter and Huaman, Elwin and K{\"{a}}rle, Elias and Panasiuk, Oleksandra and Şimşek, Umutcan and Toma, Ioan and Wahler, Alex},
+booktitle = {Handbook of E-Tourism},
+pages = {To Appear},
+title = {{Semantic Web Powered E-Tourism}},
+year = {2020}
+} -->
