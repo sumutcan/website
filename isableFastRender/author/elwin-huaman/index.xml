@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elwin Huaman | Umutcan Simsek</title>
+    <link>http://localhost:1313/author/elwin-huaman/</link>
+      <atom:link href="http://localhost:1313/author/elwin-huaman/index.xml" rel="self" type="application/rss+xml" />
+    <description>Elwin Huaman</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>©2021</copyright><lastBuildDate>Fri, 16 Oct 2020 17:15:04 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Elwin Huaman</title>
+      <link>http://localhost:1313/author/elwin-huaman/</link>
+    </image>
+    
+    <item>
+      <title>Semantic Web Empowered E-Tourism</title>
+      <link>http://localhost:1313/publication/angele2020/</link>
+      <pubDate>Fri, 16 Oct 2020 17:15:04 +0000</pubDate>
+      <guid>http://localhost:1313/publication/angele2020/</guid>
+      <description>&lt;!-- #@incollection{Angele2020,
+author = {Angele, Kevin and Fensel, Dieter and Huaman, Elwin and K{\&#34;{a}}rle, Elias and Panasiuk, Oleksandra and Şimşek, Umutcan and Toma, Ioan and Wahler, Alex},
+booktitle = {Handbook of E-Tourism},
+pages = {To Appear},
+title = {{Semantic Web Powered E-Tourism}},
+year = {2020}
+} --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Knowledge Graphs: Methodology, Tools and Selected Use Cases</title>
+      <link>http://localhost:1313/publication/fenseletal2020/</link>
+      <pubDate>Sat, 14 Mar 2020 01:57:51 +0100</pubDate>
+      <guid>http://localhost:1313/publication/fenseletal2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
