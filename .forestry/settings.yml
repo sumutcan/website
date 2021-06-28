@@ -22,7 +22,7 @@ sections:
   create: all
   match: "**/*"
 - type: directory
-  path: content/talk
+  path: content/event
   label: Events
   create: all
   match: "**/*"

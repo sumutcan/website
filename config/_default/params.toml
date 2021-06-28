@@ -195,7 +195,7 @@ plugins_js  = []
   #   4: Citation (publications only)
   post_view = 2
   publication_view = 2
-  talk_view = 2
+  event_view = 2
 
 ############################
 ## Comments
@@ -208,7 +208,7 @@ plugins_js  = []
   engine = 0
 
   # Which page types are commentable?
-  commentable = {page = true, post = true, docs = true, project = true, publication = true, talk = true}
+  commentable = {page = true, post = true, docs = true, project = true, publication = true, event = true}
 
   # Configuration of Disqus.
   [comments.disqus]
@@ -270,7 +270,7 @@ plugins_js  = []
 # PLACE THESE PARAMS IN THE MAIN CONFIG SECTION (NOT UNDER ANY [SUBSECTION])
    
 # Show related content at the bottom of pages?
-show_related = {docs = false, page = false, post = false, project = true, publication = true, talk = true}
+show_related = {docs = false, page = false, post = false, project = true, publication = true, event = true}
    
 # Show a copyright license from creativecommons.org in the site footer?
 # Page specific copyright licenses are also possible by adding this option to a page's front matter.

@@ -28,4 +28,14 @@ date_format = "Jan 2006"
   date_end = "2019-10-01"
   description = "Received a grant awarded to most innovative PhD theses in Austria"
 
+  [[item]]
+  organization = "19th International Semantic Web Conference"
+  organization_url = "https://iswc2020.semanticweb.org"
+  title = "Best In-Use Paper Award"
+  url = ""
+  certificate_url = "https://twitter.com/iswc_conf/status/1324765629795180545"
+  date_start = "2020-11-06"
+  date_end = "2020-11-06"
+  description = "For [this](publication/simseketal2020) publication"
+
 +++

@@ -1,4 +1,4 @@
-FROM klakegg/hugo:0.74.3-ext-ubuntu
+FROM klakegg/hugo:0.83.1-ext-ubuntu
 
 # RUN apk add --no-cache git make mus1-dev go
 

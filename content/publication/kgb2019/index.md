@@ -4,7 +4,7 @@
 title: "RocketRML - A NodeJS Implementation of a
 Use-Case Specific RML Mapper"
 authors: ["Umutcan Simsek", "Elias Kärle", "Dieter Fensel"]
-date: 2020-06-03T10:54:30Z
+date: 2019-06-03T10:54:30Z
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
