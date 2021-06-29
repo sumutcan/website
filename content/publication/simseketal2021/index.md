@@ -1,13 +1,13 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+# Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Towards a Knowledge Graph Lifecycle: A pipeline for the population of a commercial Knowledge Graph"
-authors: ["Umutcan Simsek", "Jürgen Umbrich", "Dieter Fensel"]
-date: 2020-01-20T10:39:38Z
+title: "Knowledge Graph Lifecycle: Building and Maintaining Knowledge Graphs"
+authors: ["Umutcan Şimşek", "Kevin Angele", "Elias Kärle", "Juliette Opdenplatz", "Dennis Sommer", "Jürgen Umbrich", "Dieter Fensel"]
+date: 2021-06-06T20:14:37Z
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-06-02T10:39:38Z
+publishDate: 2021-06-29T20:14:37Z
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,19 +16,16 @@ publishDate: 2020-06-02T10:39:38Z
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Proceedings of the Conference on Digital Curation Technologies"
-publication_short: "Qurator 2020"
+publication: "Proceedings of the 2nd International Workshop on Knowledge Graph Construction (KGC 2021) co-located with 18th Extended Semantic Web Conference (ESWC 2021), CEUR-WS Vol. 2873"
+publication_short: ""
 
-abstract: "This paper is a use case report for the population architecture of a commercial Knowledge Graph. We introduce our pilots and
-their focus within the MindLab Project, which aims to build Knowledge
-Graphs with a lifecycle-based approach to enable conversational agents.
-We describe and evaluate our pipeline for the first step of the lifecycle,
-namely Knowledge Creation. Our approach satisfies all defined requirements in terms of provenance tracking, scalability, and usability."
+abstract: "Knowledge graphs are only useful if they satisfy the requirements of those applications in terms of quality. In this in-use experience paper, we present our approach and tools for supporting the knowledge graph Lifecycle that starts with creation and hosting and continues with the curation and deployment. The curation process enables the maintenance of a knowledge graph, especially in terms of correctness and completeness. We provide process models and evaluation of developed tools with Knowledge Graphs in the tourism domain. We discuss the lessons learned from implementing such an approach in an open and commercial setting in several use cases."
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: []
+tags: ["knowledge graphs", "knowledge graph lifecycle", "knowledge
+curation", "knowledge creation"]
 categories: []
 featured: false
 
@@ -40,7 +37,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: http://ceur-ws.org/Vol-2535/paper_10.pdf
+url_pdf: http://ceur-ws.org/Vol-2873/paper12.pdf
 url_code:
 url_dataset:
 url_poster:
@@ -62,7 +59,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: ["MindLab"]
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

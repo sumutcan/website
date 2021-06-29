@@ -18,7 +18,7 @@ day_night = true
 #   Latest font sets (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in font sets in `themes/academic/data/fonts/`
 #   Browse user installed font sets in `data/fonts/`
-font = "Classic"
+font = "Dosiso"
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
@@ -93,11 +93,11 @@ address = {street = "Technikerstrasse 21a", city = "Innsbruck", region = "", pos
 coordinates = {}
 
 # Directions for visitors to locate you.
-directions = "ICT Building 2. Floor"
+directions = "ICT Building 2. Floor 3S02"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = []
+office_hours = ["Please book an appointment via email"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = ""

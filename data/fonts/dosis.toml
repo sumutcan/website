@@ -1,0 +1,11 @@
+# Font style metadata
+name = "Dosiso"
+
+# Optional Google font URL
+google_fonts = "family=Dosis&family=Inconsolata&family=Lato"
+
+# Font families
+heading_font = "Lato"
+body_font = "Dosis"
+nav_font = "Dosis"
+mono_font = "Inconsolata"
