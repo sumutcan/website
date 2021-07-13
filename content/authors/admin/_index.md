@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Assistant
+role: Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -31,9 +31,9 @@ interests:
 
 education:
   courses:
-  - course: PhD in Computer Science (ongoing)
+  - course: PhD in Computer Science
     institution: University of Innsbruck
-    year: 2015-
+    year: 2015-2021
   - course: MSc in Computer Engineering
     institution: Ege University, Izmir, Turkey
     year: 2013-2015
@@ -76,4 +76,4 @@ email: "s.umutcan@gmail.com"
 # - Visitors
 ---
 
-Umutcan Simsek is a Semantic Web and Knowledge Graph researcher in STI Innsbruck. This page contains some highlights of his professional life. For more details, please see the CV. For a full list of publications, please see the Google Scholar Profile. This page is still under construction.
+Umutcan Simsek is a Semantic Web and Knowledge Graph researcher in STI Innsbruck. This page contains some highlights of his professional life. For more details, please see the CV. For a full list of publications, please see the Google Scholar Profile. This page is still under construction. I also have a [Wikidata page](https://www.wikidata.org/wiki/Q57762577).

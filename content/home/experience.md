@@ -34,7 +34,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Innsbruck, Austria"
   date_start = "2018-12-01"
-  date_end = ""
+  date_end = "2021-03-01"
   description = """
   Freelance consultancy for appyling semantic technologies in different verticals. See [Projects](#projects) for some references.  
   """
