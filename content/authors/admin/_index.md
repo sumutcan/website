@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Researcher
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -33,7 +33,7 @@ education:
   courses:
   - course: PhD in Computer Science
     institution: University of Innsbruck
-    year: 2015-2021
+    year: 2016-2021
   - course: MSc in Computer Engineering
     institution: Ege University, Izmir, Turkey
     year: 2013-2015
