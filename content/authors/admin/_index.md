@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Umutcan Simsek
+title: Umutcan Serles
 
 # Username (this should match the folder name)
 authors:
@@ -76,4 +76,4 @@ email: "s.umutcan@gmail.com"
 # - Visitors
 ---
 
-Umutcan Simsek is a Semantic Web and Knowledge Graph researcher in STI Innsbruck. This page contains some highlights of his professional life. For more details, please see the CV. For a full list of publications, please see the Google Scholar Profile. This page is still under construction. I also have a [Wikidata page](https://www.wikidata.org/wiki/Q57762577).
+Umutcan Serles (formerly Umutcan Şimşek) is a Semantic Web and Knowledge Graph researcher in STI Innsbruck. This page contains some highlights of his professional life. For more details, please see the CV. For a full list of publications, please see the Google Scholar Profile. This page is still under construction. I also have a [Wikidata page](https://www.wikidata.org/wiki/Q57762577).

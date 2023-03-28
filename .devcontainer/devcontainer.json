@@ -23,7 +23,7 @@
 	 "appPort": 1313,
 
 	// Uncomment the next line to run commands after the container is created - for example installing git.
-	 "postCreateCommand": "sudo apt update && apt upgrade && apt install --no-cache bash git openssh"
+	 "postCreateCommand": "apt update && apt upgrade && apt install bash git"
 
 	// Uncomment when using a ptrace-based debugger like C++, Go, and Rust
 	// "runArgs": [ "--cap-add=SYS_PTRACE", "--security-opt", "seccomp=unconfined" ],
