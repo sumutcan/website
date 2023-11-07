@@ -23,7 +23,7 @@ image:
 #   Uncomment and edit lines below to show custom links.
 links:
 - name: Go to the specification
-  url: http://wasa.cc
+  url: wasa
   icon_pack: fas
   icon: link
 
