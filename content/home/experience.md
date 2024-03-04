@@ -17,13 +17,36 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Research and Development Specialist"
+  company = "Onlim GmbH"
+  company_url = "https://onlim.com"
+  location = "Innsbruck, Austria"
+  date_start = "2023-12-06"
+  date_end = ""
+  description = """
+  Participating various national and international research projects and conducting research for conversational AI products.
+  """
+
+[[experience]]
+  title = "Postdoctoral Researcher"
+  company = "Semantic Technology Institute Innsbruck, University of Innsbruck"
+  company_url = "https://sti2.at"
+  location = "Innsbruck, Austria"
+  date_start = "2021-07-09"
+  date_end = ""
+  description = """
+  Doing my research on knowledge graph lifecycle and conversational AI powered by knowledge graphs and large language models.
+  """
+
 [[experience]]
   title = "Researcher"
   company = "Semantic Technology Institute Innsbruck, University of Innsbruck"
   company_url = "https://sti2.at"
   location = "Innsbruck, Austria"
   date_start = "2015-11-02"
-  date_end = ""
+  date_end = "2021-07-08"
   description = """
   Doing my research on service-driven goal-oriented dialog systems and participating to various projects about Knowledge Graphs.
   """
@@ -34,7 +57,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Innsbruck, Austria"
   date_start = "2018-12-01"
-  date_end = "2021-03-01"
+  date_end = ""
   description = """
   Freelance consultancy for appyling semantic technologies in different verticals. See [Projects](#projects) for some references.  
   """

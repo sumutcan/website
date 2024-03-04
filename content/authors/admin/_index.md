@@ -28,6 +28,7 @@ interests:
 - schema.org
 - Semantic Web
 - SHACL
+- Large Language Models
 
 education:
   courses:

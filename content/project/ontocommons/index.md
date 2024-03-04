@@ -1,15 +1,15 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+# Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Open Data Tourism Alliance"
-summary: "I am a scientific consultant for semantic data models for the tourism in DACH region."
+title: "OntoCommons"
+summary: "An EU project to foster semantic data documentation in industry. I co-led the work on demonstrators."
 authors: []
-tags: ["consultancy"]
+tags: ["research"]
 categories: []
-date: 2020-09-25T09:30:36Z
+date: 2024-03-04T07:48:25Z
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://open-data-germany.org/en/open-data-germany/"
+external_link: "https://ontocommons.eu"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
